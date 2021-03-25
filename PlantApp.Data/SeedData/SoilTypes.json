@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "text": "well drained"
+  },
+  {
+    "id": 2,
+    "text": "light"
+  },
+  {
+    "id": 3,
+    "text": "sandy"
+  },
+  {
+    "id": 4,
+    "text": "clay"
+  },
+  {
+    "id": 5,
+    "text": "heavy"
+  },
+  {
+    "id": 6,
+    "text": "moist"
+  },
+  {
+    "id": 7,
+    "text": "chalky"
+  },
+  {
+    "id": 8,
+    "text": "alkaline"
+  },
+  {
+    "id": 9,
+    "text": "acidic"
+  }
+]

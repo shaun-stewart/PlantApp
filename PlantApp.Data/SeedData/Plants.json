@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2,
+    "commonName": "string",
+    "botanicalName": "string",
+    "family": "string",
+    "type": {
+      "id": 0,
+      "name": "string"
+    },
+    "description": "string",
+    "size": {
+      "id": 0,
+      "ultimateHeight": 0,
+      "ultimateWidth": 0,
+      "timeToUltimateHeight": "string",
+      "plantId": 0
+    },
+    "soilTypes": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "sunExposures": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "hardiness": {
+      "id": 0,
+      "name": "string"
+    },
+    "toxicTo": [
+      {
+        "id": 0,
+        "groupName": "string"
+      }
+    ]
+  }
+]

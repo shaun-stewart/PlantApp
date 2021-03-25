@@ -1,0 +1,78 @@
+[
+  {
+    "PlantTypeId": 1,
+    "Name": "Alpine"
+  },
+  {
+    "PlantTypeId": 2,
+    "Name": "Annual"
+  },
+  {
+    "PlantTypeId": 3,
+    "Name": "Biennial"
+  },
+  {
+    "PlantTypeId": 4,
+    "Name": "Bog"
+  },
+  {
+    "PlantTypeId": 5,
+    "Name": "Bulb"
+  },
+  {
+    "PlantTypeId": 6,
+    "Name": "Cactus"
+  },
+  {
+    "PlantTypeId": 7,
+    "Name": "Climber"
+  },
+  {
+    "PlantTypeId": 8,
+    "Name": "Conservatory"
+  },
+  {
+    "PlantTypeId": 9,
+    "Name": "Fruit"
+  },
+  {
+    "PlantTypeId": 10,
+    "Name": "Herb"
+  },
+  {
+    "PlantTypeId": 11,
+    "Name": "House"
+  },
+  {
+    "PlantTypeId": 12,
+    "Name": "Fruit"
+  },
+  {
+    "PlantTypeId": 13,
+    "Name": "Marginal"
+  },
+  {
+    "PlantTypeId": 14,
+    "Name": "Perennial"
+  },
+  {
+    "PlantTypeId": 15,
+    "Name": "Pond"
+  },
+  {
+    "PlantTypeId": 16,
+    "Name": "Shrub"
+  },
+  {
+    "PlantTypeId": 17,
+    "Name": "Succulent"
+  },
+  {
+    "PlantTypeId": 18,
+    "Name": "Tree"
+  },
+  {
+    "PlantTypeId": 19,
+    "Name": "Vegetable"
+  }
+]

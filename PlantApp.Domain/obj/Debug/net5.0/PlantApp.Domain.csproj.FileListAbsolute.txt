@@ -1,0 +1,12 @@
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\bin\Debug\net5.0\PlantApp.Domain.deps.json
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\bin\Debug\net5.0\PlantApp.Domain.dll
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\bin\Debug\net5.0\ref\PlantApp.Domain.dll
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\bin\Debug\net5.0\PlantApp.Domain.pdb
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\obj\Debug\net5.0\PlantApp.Domain.csprojAssemblyReference.cache
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\obj\Debug\net5.0\PlantApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\obj\Debug\net5.0\PlantApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\obj\Debug\net5.0\PlantApp.Domain.AssemblyInfo.cs
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\obj\Debug\net5.0\PlantApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\obj\Debug\net5.0\PlantApp.Domain.dll
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\obj\Debug\net5.0\ref\PlantApp.Domain.dll
+C:\Users\Shaun.Stewart\source\repos\PlantApp\PlantApp.Domain\obj\Debug\net5.0\PlantApp.Domain.pdb
